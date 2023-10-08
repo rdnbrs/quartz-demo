@@ -22,6 +22,7 @@
 <h4>update job</h4>
 <p>http://localhost:8080/api/saveOrUpdate</p>
 {
+    "jobId":1,
     "jobName": "TestJob1",
     "jobGroup": "mail",
     "jobStatus": "NORMAL",
